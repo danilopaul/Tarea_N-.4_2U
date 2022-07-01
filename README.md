@@ -694,19 +694,14 @@ Conversiones Δ a Y / Y a Δ
 
 ![image](https://user-images.githubusercontent.com/105687375/176832966-f0fa6ee0-c6f2-46ae-9429-dafae3e73cef.png)
 
+4. Video:
 
+5. Conclusiones:
 
+El análisis de un circuito en serie-paralelo tiende a ser más complejo ya que para la mayoría de circuitos que se presenten vendrán dados por esas combinaciones, para su respectivo análisis se basan en las leyes de Ohm y Kirchhoff, sin embrago estas se complementan con otros métodos como el divisor de voltaje, la red en escalera y el puente Wheatstone, los cuales permiten determinar la resistencia, corriente o voltaje en un circuito. 
 
+Mediante los teoremas de Thevenin y Norton se lograba obtener un circuito equivalente al reemplazar el voltaje y su corriente por sus resistencias internas, además de las conversiones de los circuitos Y a delta y viceversa, para obtener su respectiva solución.
 
+6.Biblografia:
 
-
-
-
-
-
-
-
-
-
-
-
+Floyd, T. (2007). Principios de circuitos electricos. CDMX, Mexico: Pearson.

@@ -624,6 +624,88 @@ I_X=R_T/R_X I_T=2200Ω/1000Ω(0.02A)=0.04A
 
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
 
+![image](https://user-images.githubusercontent.com/105687375/176831814-5916250f-a55e-477c-8eca-5c945d2e1f62.png)
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/105687375/176832104-10790cd8-4543-424f-8986-b51ba3ebbc29.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176832179-70d3a688-013a-4386-a47f-4272d7a53856.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176832209-e8d0a4a4-bd37-4c26-9ea1-2da6b3804b84.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ.
+
+![image](https://user-images.githubusercontent.com/105687375/176832304-57c6013c-d8fa-4dda-bba1-92005b624176.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton. 
+
+![image](https://user-images.githubusercontent.com/105687375/176832370-6e2703e4-8e49-42ed-a58e-ab48f6de43c3.png)
+
+Teorema de transferencia de potencia máxima
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/105687375/176832439-85f22581-f11d-4732-aa74-93da7802fee2.png)
+
+Solución:
+
+La Resistencia de carga para máxima transferencia de potencia es igual a:
+
+R_L= R_S  ó R_L= R_TH   
+
+R_L= 12Ω
+
+![image](https://user-images.githubusercontent.com/105687375/176832500-28842d64-7876-4537-94ef-d8b499d084c3.png)
+
+R_L= R_S  ó R_L= R_TH   
+
+R_L= 8.2Ω
+
+![image](https://user-images.githubusercontent.com/105687375/176832554-b69dcb3b-a505-46b2-b050-67f05ce42d24.png)
+
+Reducimos el circuito a uno de Thevenin
+
+	Determinar V_TH
+	
+V_TH=V_A-V_B=(R_2/(R_2+R_3 ))*V_S-(R_1/(R_1+R_3 ))*V_S
+
+V_TH=(1Ω/(1Ω+4.7Ω))*(1V)-(2Ω/(2Ω+4.7Ω))*(1V)
+
+V_TH=(0.18)*(1V)-(0.29)*(1V)=-1.1V
+
+	Determinar la R_TH
+	
+R_2=((R_2*R_1)/(R_1+R_2 ))=0.67Ω
+
+R_TH=((R_2*R_3)/(R_1+R_3 ))=(((0.67Ω*4.7Ω)/(0.67Ω+4.7Ω))=0.59Ω
+
+R_TH=0.59Ω
+
+Conversiones Δ a Y / Y a Δ
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/105687375/176832782-ffe7a169-1433-4e3a-8bd8-8b0b4434713e.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176832831-7cde5c86-0fd2-4b61-a700-f16c329517d0.png)
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90
+
+![image](https://user-images.githubusercontent.com/105687375/176832966-f0fa6ee0-c6f2-46ae-9429-dafae3e73cef.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

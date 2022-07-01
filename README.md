@@ -696,6 +696,8 @@ Conversiones Δ a Y / Y a Δ
 
 4. Video:
 
+https://youtu.be/MXxGWJGnnpU
+
 5. Conclusiones:
 
 El análisis de un circuito en serie-paralelo tiende a ser más complejo ya que para la mayoría de circuitos que se presenten vendrán dados por esas combinaciones, para su respectivo análisis se basan en las leyes de Ohm y Kirchhoff, sin embrago estas se complementan con otros métodos como el divisor de voltaje, la red en escalera y el puente Wheatstone, los cuales permiten determinar la resistencia, corriente o voltaje en un circuito. 
